@@ -9,13 +9,25 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
+    "@expo/ngrok": "^2.5.0",
+    "@react-native-picker/picker": "2.4.10",
+    "@tamagui/babel-plugin": "^1.79.7",
+    "@tamagui/config": "^1.79.7",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.4",
     "expo": "~49.0.15",
+    "expo-font": "~11.4.0",
+    "expo-image-picker": "~14.3.2",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-native": "0.72.6",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-svg": "13.9.0",
+    "tamagui": "^1.79.7"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
+    "@expo/ngrok": "^4.1.0",
     "@types/react": "~18.2.14",
     "typescript": "^5.1.3"
   },
