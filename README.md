@@ -1,6 +1,6 @@
 
 # 📱 Inteligência Artificial Aplicada - Desenvolvimento de Aplicativo com modelo treinado de Inteligência Artificial • Classificador de Imagens
-
+Desenvolvido por Athos Pugliese, Gabriel Trindade, Maria Heloísa Galvão, Karem Letícia e Saulo Ferraz.
 Nesse projeto final da matéria de Inteligência Artificial da Universidade Católica de Pernambuco foi pedido que os alunos treinassem um modelo de inteligência artificial e fosse feito o deploy do modelo e que ele fosse consumido em um front-end.
 ## Demonstração do projeto
 
